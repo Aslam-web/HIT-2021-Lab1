@@ -1,0 +1,10 @@
+Question 32)
+An Applet has its Layout Manager set to the default of FlowLayout. What code would be
+correct to change to another Layout Manager.
+1) setLayoutManager(new GridLayout());
+2) setLayout(new GridLayout(2,2));
+3) setGridLayout(2,2);
+4) setBorderLayout(); 
+
+Answer
+2) setLayout(new GridLayout(2,2));

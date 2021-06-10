@@ -1,0 +1,10 @@
+Question 27)
+If you wanted to find out where the position of the letter v (ie return 2) in the string s
+containing "Java", which of the following could you use?
+1) mid(2,s);
+2) charAt(2);
+3) s.indexOf('v');
+4) indexOf(s,'v'); 
+
+Answer
+3) s.indexOf('v');

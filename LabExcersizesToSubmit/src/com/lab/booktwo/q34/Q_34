@@ -1,0 +1,20 @@
+Question 34)
+You have created an applet that draws lines. You have overriden the paint operation and
+used the graphics drawLine method, and increase one of its parameters to multiple lines
+across the screen. When you first test the applet you find that the news lines are redrawn,
+but the old lines are erased. How can you modify your code to allow the old lines to stay
+on the screen instead of being cleared.
+
+1) Override repaint thus
+public void repaint(Graphics g){
+ 	paint(g); 
+ }
+2)Override update thus
+public void update(Graphics g) {
+ 	paint(g);
+ }
+3) turn off clearing with the method setClear();
+4) Remove the drawing from the paint Method and place in the calling code 
+
+Answer
+2)

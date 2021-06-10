@@ -1,0 +1,9 @@
+Question 31)
+How would you go about opening an image file called MyPicture.jpg
+1) Graphics.getGraphics("MyPicture.jpg");
+2) Image image=Toolkit.getDefaultToolkit().getImage("MyPicture.jpg");
+3) Graphics.openImage("MyPicture");
+4) Image m=new Image("MyPicture"); 
+
+Answer
+2) Image image=Toolkit.getDefaultToolkit().getImage("MyPicture.jpg");
