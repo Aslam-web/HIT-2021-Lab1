@@ -1,0 +1,15 @@
+Question 48)
+
+You have created a simple Frame and overridden the paint method as follows
+public void paint(Graphics g){
+g.drawString("Dolly",50,10);
+}
+What will be the result when you attempt to compile and run the program?
+1) The string "Dolly" will be displayed at the centre of the frame
+2) An error at compilation complaining at the signature of the paint method
+3) The lower part of the word Dolly will be seen at the top of the frame, with the top
+hidden.
+4) The string "Dolly" will be shown at the bottom of the frame.
+
+Answer
+3) The lower part of the word Dolly will be seen at the top of the form 

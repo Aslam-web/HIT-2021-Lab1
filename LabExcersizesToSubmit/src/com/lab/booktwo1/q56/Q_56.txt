@@ -1,0 +1,12 @@
+Question 56)
+
+You are using the GridBagLayout manager to place a series of buttons on a Frame. You
+want to make the size of one of the buttons bigger than the text it contains. Which of the
+following will allow you to do that?
+1) The GridBagLayout manager does not allow you to do this
+2) The setFill method of the GridBagLayout class
+3) The setFill method of the GridBagConstraints class
+4) The fill field of the GridBagConstraints class 
+
+Answer
+4) The fill field of the GridBagConstraints class 

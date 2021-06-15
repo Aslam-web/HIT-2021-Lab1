@@ -1,0 +1,17 @@
+Question 49)
+
+What will be the result when you attempt to compile this program?
+public class Rand{
+public static void main(String argv[]){
+ int iRand;
+ iRand = Math.random();
+ System.out.println(iRand);
+ }
+}
+1) Compile time error referring to a cast problem
+2) A random number between 1 and 10 
+3) A random number between 0 and 1
+4) A compile time error about random being an unrecognised method 
+
+Answer
+1) Compile time error referring to a cast problem

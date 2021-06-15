@@ -1,0 +1,12 @@
+Question 46)
+
+You need to create a class that will store a unique object elements. You do not need to sort
+these elements but they must be unique.
+What interface might be most suitable to meet this need?
+1)Set
+2)List
+3)Map
+4)Vector 
+
+Answer
+1)Set

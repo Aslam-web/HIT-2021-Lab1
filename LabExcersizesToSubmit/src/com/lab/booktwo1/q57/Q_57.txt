@@ -1,0 +1,10 @@
+Question 57)
+
+Which of the following most closely describes a bitset collection?
+1) A class that contains groups of unique sequences of bits
+2) A method for flipping individual bits in instance of a primitive type
+3) An array of boolean primitives that indicate zeros or ones
+4) A collection for storing bits as on-off information, like a vector of bits 
+
+Answer
+4) A collection for storing bits as on-off information, like a vector of bits 

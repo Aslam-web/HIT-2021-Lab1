@@ -1,0 +1,13 @@
+Question 60)
+
+You are creating an applet with a Frame that contains buttons. You are using the
+GridBagLayout manager and you have added Four buttons. At the moment the buttons
+appear in the centre of the frame from left to right. You want them to appear one on top of
+the other going down the screen. What is the most appropriate way to do this.
+1) Set the gridy value of the GridBagConstraint class to a value increasing from 1 to 4
+2) set the fill value of the GridBagConstraint class to VERTICAL
+3) Set the ipady value of the GridBagConstraint class to a value increasing from 0 to 4
+4) Set the fill value of the GridBagLayout class to GridBag.VERTICAL 
+
+Answer
+1) Set the gridy value of the GridBagConstraint class to a value increasing from 1 to 4 

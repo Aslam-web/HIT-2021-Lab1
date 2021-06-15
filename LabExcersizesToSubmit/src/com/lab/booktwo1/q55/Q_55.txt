@@ -1,0 +1,13 @@
+Question 55)
+
+You are concerned that your program may attempt to use more memory than is available.
+To avoid this situation you want to ensure that the Java Virtual Machine will run its
+garbage collection just before you start a complex routine. What can you do to be certain
+that garbage collection will run when you want .
+1) You cannot be certain when garbage collection will run
+2) Use the Runtime.gc() method to force garbage collection
+3) Ensure that all the variables you require to be garbage collected are set to null
+4) Use the System.gc() method to force garbage collection
+
+Answer
+ 1) You cannot be certain when garbage collection will run

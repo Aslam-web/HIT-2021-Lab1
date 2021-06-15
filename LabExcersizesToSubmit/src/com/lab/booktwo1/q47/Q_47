@@ -1,0 +1,16 @@
+Question 47)
+
+Which of the following will successfully create an instance of the Vector class and add an
+element?
+1) Vector v=new Vector(99);
+v[1]=99;
+2) Vector v=new Vector();
+v.addElement(99);
+3) Vector v=new Vector();
+v.add(99);
+4) Vector v=new Vector(100);
+v.addElement("99");
+
+Answer
+4) Vector v=new Vector(100);
+v.addElement("99");

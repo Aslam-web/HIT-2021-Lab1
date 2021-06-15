@@ -1,0 +1,22 @@
+Question 52)
+
+You want to lay out a set of buttons horizontally but with more space between the first
+button and the rest. You are going to use the GridBagLayout manager to control the way
+the buttons are set out. How will you modify the way the GridBagLayout acts in order to
+change the spacing around the first button?
+1) Create an instance of the GridBagConstraints class, call the weightx() method and then
+pass the GridBagConstraints instance with the component to the setConstraints method of
+the GridBagLayout class.
+2) Create an instance of the GridBagConstraints class, set the weightx field and then pass
+the GridBagConstraints instance with the component to the setConstraints method of the
+GridBagLayout class.
+3) Create an instance of the GridBagLayout class, set the weightx field and then call the
+setConstraints method of the GridBagLayoutClass with the component as a parameter.
+4) Create an instance of the GridBagLayout class, call the setWeightx() method and then
+pass the GridBagConstraints instance with the component to the setConstraints method of
+the GridBagLayout class
+
+Answer
+2) Create an instance of the GridBagConstraints class, set the weightx field and then pass
+the GridBagConstraints instance with the component to the setConstraints method of the
+GridBagLayout class.
